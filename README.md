@@ -9,5 +9,5 @@ By: Tyler Ingebrigsten,
 Apexa Patel,
 Edgar Vargas
 
-### Should we trust in ApplePay to keep us safe?
+### Should we trust in Apple Pay to keep us safe?
 
