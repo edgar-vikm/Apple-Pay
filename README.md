@@ -1,15 +1,7 @@
-# Apple-Pay Case Study
-![Apple Pay](download.png)
-
-## The rise of Apple Pay
-
-A discussion on the development of Apple Pay
-
-By: Tyler Ingebrigsten, 
-Apexa Patel,
-Edgar Vargas
-
-### Should we trust in Apple Pay to keep us safe?
-
-Apple pay mitigates the risk by using payment token technology to protect consumer credit cards from fraud. A significant strength is the convenience of apple pay but also how secure it is. However, most of their weaknesses aren't related to technical performance. Instead, it mostly revolves around public perception of information being unsecure in "the cloud" or merchants simply not wanting to adopt apple pay.
- 
+# Apple-Pay
+##  Main competitors for Apple Pay
+* apple was founded on april 1st 1976 in Cupertino , CA and hence has been a distributor, of mobile devices, computers, software and hardware services. 
+ - paypal, Stripe, and  payoneer are amongst the most popular fintech competitors for the tech giant Apple.
+---
+### Future of Apple pay
+- tech giant apple plans to use the advancements in technology to essentially make the wallet obsolute.
